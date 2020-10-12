@@ -4,5 +4,5 @@ Juegos actuales: Gears 5
 Juego favorito: Halo
 Carrera:Ing Mecanica
 Especialidad:
-Materia:
-Semestre:
+Materia: Fundamentos de programacion	
+Semestre: tercero
